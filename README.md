@@ -1,7 +1,7 @@
 # db
 Para executar os testes de api é necessário seguir os passos abaixo: 
 
-1 - Clone o projeto através do comando "git clone + a url do projeto".
+1 - Clone o projeto através do comando "git clone + url do projeto".
 
 2 - Após ser clonado, verifique se o computador tem o ruby através do comando ruby -v.
 
